@@ -8,7 +8,7 @@ export default function Counter() {
     <div className={styles.counter}>
       <h1>Earn Robux Online</h1>
       
-      <p> <b> Earn Robux </b> by doing simple tasks: 
+      <p> <b> Earn Robux </b> by doing simple tasks:<br> 
       Playing games, Install Free Apps, completing surveys or inviting friends.</p> 
     </div>
   )
