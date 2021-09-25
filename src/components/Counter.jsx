@@ -6,10 +6,9 @@ export default function Counter() {
 
   return (
     <div className={styles.counter}>
-      <h1>Simple React Counter</h1>
-      <p>Count: {count}</p>
-      <button onClick={() => setCount(count + 1)}>+</button>
-      <button onClick={() => setCount(count - 1)}>-</button>
+      <h1>Earn Robux Online</h1>
+      <p><b>Earn robux</b> by doing simple tasks: Playing games, Install free apps, completing surveys or inviting friends.</p>
+      
     </div>
   )
 }
